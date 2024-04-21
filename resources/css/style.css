@@ -1,0 +1,23 @@
+/* Styling for text input */
+input[type="text"] {
+    width: 200px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Styling for submit button */
+  input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #98532b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Hover effect for submit button */
+  input[type="submit"]:hover {
+    background-color: #af1d0a;
+  }
+  
